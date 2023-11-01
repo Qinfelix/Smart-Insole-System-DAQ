@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\Public\Documents\Altium\Projects\insoleDAQ\PCB2.PcbDoc
+Date         : 2023/2/17
+Time         : 10:30:21
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 2070.381milsx1535.058mils
+    Components on board, 44
+count : 2
