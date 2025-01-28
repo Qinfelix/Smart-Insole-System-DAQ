@@ -6,5 +6,5 @@ Tha function of the PCB board is to read the signals from pressure sensor array 
 ![图片1](https://github.com/Qinfelix/Smart-Insole-System-DAQ/assets/101391988/236c2009-394d-4558-becd-ea61f260ffc2)
 
 
-I am very happy that the PCB board was manufactured and tested on some basic function.
+I am very happy that the PCB board was manufactured。 But still needed to be tested.
 ![2](https://github.com/Qinfelix/Smart-Insole-System-DAQ/assets/101391988/53200564-e01e-4109-9959-7c7446677966)
